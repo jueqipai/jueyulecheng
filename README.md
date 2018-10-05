@@ -10,3 +10,5 @@
 <li>3.苹果全系列手机完美适配！</li>
 </ul>
 <img src="logo.jpg"/>
+
+email:wanghelonglong@outlook.com 
